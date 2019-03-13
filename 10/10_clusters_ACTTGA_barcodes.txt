@@ -1,0 +1,2 @@
+#  Ind.	p5 bc	p7 bc	p5 spc	p7 spc	Annotation
+Individual 1	ATCACG	ACTTGA			Annotation 1

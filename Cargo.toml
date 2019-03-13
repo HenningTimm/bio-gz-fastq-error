@@ -1,0 +1,9 @@
+[package]
+name = "fq_bio"
+version = "0.1.0"
+authors = ["Henning Timm <henning.timm@tu-dortmund.de>"]
+edition = "2018"
+
+[dependencies]
+bio = "*"
+flate2 = "*"
